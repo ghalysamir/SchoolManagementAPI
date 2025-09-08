@@ -18,4 +18,3 @@ SchoolManagementAPI is a web API for managing school data, including students, t
 1. Clone the repository:
    ```bash
    git clone https://github.com/ghalysamir/SchoolManagementAPI.git
-
