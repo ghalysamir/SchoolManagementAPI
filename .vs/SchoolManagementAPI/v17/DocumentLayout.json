@@ -1,0 +1,204 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ghaly\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Projects\\SchoolManagementAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67DD6CFB-7AF0-465A-AFC3-1F85AA433C59}|SchoolManagementAPI\\SchoolManagementAPI.csproj|c:\\users\\ghaly\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\projects\\schoolmanagementapi\\schoolmanagementapi\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67DD6CFB-7AF0-465A-AFC3-1F85AA433C59}|SchoolManagementAPI\\SchoolManagementAPI.csproj|solutionrelative:schoolmanagementapi\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67DD6CFB-7AF0-465A-AFC3-1F85AA433C59}|SchoolManagementAPI\\SchoolManagementAPI.csproj|c:\\users\\ghaly\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\projects\\schoolmanagementapi\\schoolmanagementapi\\schoolmanagementapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{67DD6CFB-7AF0-465A-AFC3-1F85AA433C59}|SchoolManagementAPI\\SchoolManagementAPI.csproj|solutionrelative:schoolmanagementapi\\schoolmanagementapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67DD6CFB-7AF0-465A-AFC3-1F85AA433C59}|SchoolManagementAPI\\SchoolManagementAPI.csproj|c:\\users\\ghaly\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\projects\\schoolmanagementapi\\schoolmanagementapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{67DD6CFB-7AF0-465A-AFC3-1F85AA433C59}|SchoolManagementAPI\\SchoolManagementAPI.csproj|solutionrelative:schoolmanagementapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67DD6CFB-7AF0-465A-AFC3-1F85AA433C59}|SchoolManagementAPI\\SchoolManagementAPI.csproj|c:\\users\\ghaly\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\projects\\schoolmanagementapi\\schoolmanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67DD6CFB-7AF0-465A-AFC3-1F85AA433C59}|SchoolManagementAPI\\SchoolManagementAPI.csproj|solutionrelative:schoolmanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67DD6CFB-7AF0-465A-AFC3-1F85AA433C59}|SchoolManagementAPI\\SchoolManagementAPI.csproj|c:\\users\\ghaly\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\projects\\schoolmanagementapi\\schoolmanagementapi\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67DD6CFB-7AF0-465A-AFC3-1F85AA433C59}|SchoolManagementAPI\\SchoolManagementAPI.csproj|solutionrelative:schoolmanagementapi\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67DD6CFB-7AF0-465A-AFC3-1F85AA433C59}|SchoolManagementAPI\\SchoolManagementAPI.csproj|c:\\users\\ghaly\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\projects\\schoolmanagementapi\\schoolmanagementapi\\data\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67DD6CFB-7AF0-465A-AFC3-1F85AA433C59}|SchoolManagementAPI\\SchoolManagementAPI.csproj|solutionrelative:schoolmanagementapi\\data\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67DD6CFB-7AF0-465A-AFC3-1F85AA433C59}|SchoolManagementAPI\\SchoolManagementAPI.csproj|c:\\users\\ghaly\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\projects\\schoolmanagementapi\\schoolmanagementapi\\models\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67DD6CFB-7AF0-465A-AFC3-1F85AA433C59}|SchoolManagementAPI\\SchoolManagementAPI.csproj|solutionrelative:schoolmanagementapi\\models\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67DD6CFB-7AF0-465A-AFC3-1F85AA433C59}|SchoolManagementAPI\\SchoolManagementAPI.csproj|c:\\users\\ghaly\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\projects\\schoolmanagementapi\\schoolmanagementapi\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67DD6CFB-7AF0-465A-AFC3-1F85AA433C59}|SchoolManagementAPI\\SchoolManagementAPI.csproj|solutionrelative:schoolmanagementapi\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67DD6CFB-7AF0-465A-AFC3-1F85AA433C59}|SchoolManagementAPI\\SchoolManagementAPI.csproj|c:\\users\\ghaly\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\projects\\schoolmanagementapi\\schoolmanagementapi\\models\\schoolclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67DD6CFB-7AF0-465A-AFC3-1F85AA433C59}|SchoolManagementAPI\\SchoolManagementAPI.csproj|solutionrelative:schoolmanagementapi\\models\\schoolclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67DD6CFB-7AF0-465A-AFC3-1F85AA433C59}|SchoolManagementAPI\\SchoolManagementAPI.csproj|c:\\users\\ghaly\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\projects\\schoolmanagementapi\\schoolmanagementapi\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67DD6CFB-7AF0-465A-AFC3-1F85AA433C59}|SchoolManagementAPI\\SchoolManagementAPI.csproj|solutionrelative:schoolmanagementapi\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67DD6CFB-7AF0-465A-AFC3-1F85AA433C59}|SchoolManagementAPI\\SchoolManagementAPI.csproj|c:\\users\\ghaly\\onedrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\projects\\schoolmanagementapi\\schoolmanagementapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{67DD6CFB-7AF0-465A-AFC3-1F85AA433C59}|SchoolManagementAPI\\SchoolManagementAPI.csproj|solutionrelative:schoolmanagementapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ghaly\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Projects\\SchoolManagementAPI\\SchoolManagementAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "SchoolManagementAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ghaly\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Projects\\SchoolManagementAPI\\SchoolManagementAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "SchoolManagementAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-11T09:16:17.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SchoolManagementAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\ghaly\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Projects\\SchoolManagementAPI\\SchoolManagementAPI\\SchoolManagementAPI.csproj",
+              "RelativeDocumentMoniker": "SchoolManagementAPI\\SchoolManagementAPI.csproj",
+              "ToolTip": "C:\\Users\\ghaly\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Projects\\SchoolManagementAPI\\SchoolManagementAPI\\SchoolManagementAPI.csproj",
+              "RelativeToolTip": "SchoolManagementAPI\\SchoolManagementAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-09T18:17:43.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\ghaly\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Projects\\SchoolManagementAPI\\SchoolManagementAPI\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "SchoolManagementAPI\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\ghaly\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Projects\\SchoolManagementAPI\\SchoolManagementAPI\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "SchoolManagementAPI\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAkwFgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T11:11:59.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ghaly\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Projects\\SchoolManagementAPI\\SchoolManagementAPI\\Program.cs",
+              "RelativeDocumentMoniker": "SchoolManagementAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\ghaly\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Projects\\SchoolManagementAPI\\SchoolManagementAPI\\Program.cs",
+              "RelativeToolTip": "SchoolManagementAPI\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T10:24:43.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SchoolContext.cs",
+              "DocumentMoniker": "C:\\Users\\ghaly\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Projects\\SchoolManagementAPI\\SchoolManagementAPI\\Data\\SchoolContext.cs",
+              "RelativeDocumentMoniker": "SchoolManagementAPI\\Data\\SchoolContext.cs",
+              "ToolTip": "C:\\Users\\ghaly\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Projects\\SchoolManagementAPI\\SchoolManagementAPI\\Data\\SchoolContext.cs",
+              "RelativeToolTip": "SchoolManagementAPI\\Data\\SchoolContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T10:20:52.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Grade.cs",
+              "DocumentMoniker": "C:\\Users\\ghaly\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Projects\\SchoolManagementAPI\\SchoolManagementAPI\\Models\\Grade.cs",
+              "RelativeDocumentMoniker": "SchoolManagementAPI\\Models\\Grade.cs",
+              "ToolTip": "C:\\Users\\ghaly\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Projects\\SchoolManagementAPI\\SchoolManagementAPI\\Models\\Grade.cs",
+              "RelativeToolTip": "SchoolManagementAPI\\Models\\Grade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T10:17:20.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Enrollment.cs",
+              "DocumentMoniker": "C:\\Users\\ghaly\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Projects\\SchoolManagementAPI\\SchoolManagementAPI\\Models\\Enrollment.cs",
+              "RelativeDocumentMoniker": "SchoolManagementAPI\\Models\\Enrollment.cs",
+              "ToolTip": "C:\\Users\\ghaly\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Projects\\SchoolManagementAPI\\SchoolManagementAPI\\Models\\Enrollment.cs",
+              "RelativeToolTip": "SchoolManagementAPI\\Models\\Enrollment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T10:16:37.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SchoolClass.cs",
+              "DocumentMoniker": "C:\\Users\\ghaly\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Projects\\SchoolManagementAPI\\SchoolManagementAPI\\Models\\SchoolClass.cs",
+              "RelativeDocumentMoniker": "SchoolManagementAPI\\Models\\SchoolClass.cs",
+              "ToolTip": "C:\\Users\\ghaly\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Projects\\SchoolManagementAPI\\SchoolManagementAPI\\Models\\SchoolClass.cs",
+              "RelativeToolTip": "SchoolManagementAPI\\Models\\SchoolClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T10:16:05.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\ghaly\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Projects\\SchoolManagementAPI\\SchoolManagementAPI\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "SchoolManagementAPI\\Models\\Teacher.cs",
+              "ToolTip": "C:\\Users\\ghaly\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Projects\\SchoolManagementAPI\\SchoolManagementAPI\\Models\\Teacher.cs",
+              "RelativeToolTip": "SchoolManagementAPI\\Models\\Teacher.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwAIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T10:15:11.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\ghaly\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Projects\\SchoolManagementAPI\\SchoolManagementAPI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "SchoolManagementAPI\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\ghaly\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Projects\\SchoolManagementAPI\\SchoolManagementAPI\\appsettings.Development.json",
+              "RelativeToolTip": "SchoolManagementAPI\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-09T10:30:44.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\ghaly\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Projects\\SchoolManagementAPI\\SchoolManagementAPI\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "SchoolManagementAPI\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\ghaly\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\Projects\\SchoolManagementAPI\\SchoolManagementAPI\\Models\\Student.cs",
+              "RelativeToolTip": "SchoolManagementAPI\\Models\\Student.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA5wBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T10:09:00.188Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

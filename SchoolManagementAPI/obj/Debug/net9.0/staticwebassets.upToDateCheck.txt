@@ -1,0 +1,4 @@
+wwwroot\index.html
+wwwroot\script.js
+C:\Users\ghaly\OneDrive\سطح المكتب\Projects\SchoolManagementAPI\SchoolManagementAPI\wwwroot\script.js
+C:\Users\ghaly\OneDrive\سطح المكتب\Projects\SchoolManagementAPI\SchoolManagementAPI\wwwroot\index.html
